@@ -1,1 +1,54 @@
+body{
+margin:0;
+font-family: Arial, Helvetica, sans-serif;
+background:#e5e5e5;
+}
 
+header{
+background:#59e05b;
+text-align:center;
+padding:20px;
+}
+
+header h1{
+margin:0;
+font-size:28px;
+}
+
+.container{
+display:flex;
+justify-content:space-between;
+padding:40px;
+}
+
+.texto{
+background:#66f066;
+padding:25px;
+width:55%;
+}
+
+.texto h2{
+margin-top:0;
+}
+
+.texto ul{
+padding-left:20px;
+}
+
+.lado-direito{
+width:35%;
+text-align:center;
+}
+
+.lado-direito img{
+width:250px;
+margin-top:20px;
+}
+
+.contato{
+background:#59e05b;
+margin-top:40px;
+padding:20px;
+font-size:22px;
+font-weight:bold;
+}
